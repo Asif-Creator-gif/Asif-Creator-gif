@@ -1,10 +1,20 @@
-- 👋 Hi, I’m @Asif-Creator-gif
-- 👀 I’m interested in Machine learning and deep learning and computer vision
-- 🌱 I’m currently learning new models which is using for detection and recognition accurately
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi there, I'm @Asif-Creator-gif 👋
+
+I'm passionate about Machine Learning, Deep Learning, and Computer Vision. Currently, I'm exploring innovative models to enhance detection and recognition accuracy.
+
+**I'm looking to collaborate on:**  
+Open-source projects focused on advanced computer vision and AI applications.
+
+**How to reach me:**  
+- Email: mr.asifkhanas@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/asif-khan-4a861b355/
+
+**Pronouns:**  
+He/Him
+
+**Fun Fact:**  
+I love turning everyday moments into engaging GIFs and using creative visuals to explain complex concepts.
+
 
 <!---
 Asif-Creator-gif/Asif-Creator-gif is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
